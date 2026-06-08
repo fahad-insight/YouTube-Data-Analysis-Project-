@@ -47,12 +47,14 @@ YouTube-Data-Pipeline/
 ├── data/
 │   └── Python Script.py
 │   └── youtube_data.xlsx
+│  
+├── LICENSE
 |
-├── powerbi/
-│   └── report.pbix
+├── README.md
 │
-├── images/
-    └── pipeline_diagram.png
+├── pipeline_diagram.png
+│
+├── report.pbix
 
 ---
 
